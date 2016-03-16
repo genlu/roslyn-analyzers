@@ -109,6 +109,7 @@
     </Compile>
     <Compile Include="DoNotUseGenericCodeActionCreateToCreateCodeAction.cs" />
     <Compile Include="DoNotInvokeDiagnosticDescriptor.cs" />
+    <Compile Include="SkippedTestMustHaveLinkToCorrespondingWorkItem.cs" />
     <Compile Include="SpecializedEnumerableCreationAnalyzer.cs" />
     <Compile Include="SymbolDeclaredEventMustBeGeneratedForSourceSymbols.cs" />
     <Compile Include="DiagnosticCategory.cs" />
